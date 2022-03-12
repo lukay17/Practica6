@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/lukay/AndroidStudioProjects/Practica6/app/src/main/res/drawable/baseline_visibility_black_24dp.xml" value="0.394" />
+        <entry key="..\:/Users/lukay/AndroidStudioProjects/Practica6/app/src/main/res/layout/activity_home.xml" value="0.32457353619179347" />
+        <entry key="..\:/Users/lukay/AndroidStudioProjects/Practica6/app/src/main/res/layout/activity_register.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/lukay/AndroidStudioProjects/Practica6/app/src/main/res/layout/fragment_icon.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/lukay/AndroidStudioProjects/Practica6/app/src/main/res/menu/menu.xml" value="0.6333333333333333" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
